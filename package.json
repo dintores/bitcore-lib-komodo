@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib-zcash",
+  "name": "bitcore-lib-komodo",
   "version": "0.13.19",
-  "description": "A pure and powerful JavaScript Zcash library.",
+  "description": "A pure and powerful JavaScript Komodo library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -61,7 +61,7 @@
     }
   ],
   "keywords": [
-    "zcash",
+    "komodo",
     "transaction",
     "address",
     "p2p",
@@ -78,7 +78,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zcashblockchain/bitcore-lib-zcash.git"
+    "url": "git+ssh://git@github.com:supernetorg/bitcore-lib-komodo.git"
   },
   "browser": {
     "request": "browser-request"
@@ -92,7 +92,7 @@
     "lodash": "=3.10.1"
   },
   "devDependencies": {
-    "bitcore-build-zcash": "git+ssh://git@github.com:zcashblockchain/bitcore-build-zcash",
+    "bitcore-build-komodo": "git+ssh://git@github.com:supernetorg/bitcore-build-komodo",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
